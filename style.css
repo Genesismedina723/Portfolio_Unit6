@@ -2,10 +2,11 @@
       text-align: center;
       background: url("images/banner.jpg");
       background-size: cover;
-      color:blue;
+      color:pink;
+      font-family: monospace;
     }
     .nav {
-      color: pink;
+      color: white;
       background-color: inherit
     }
     h1 {
@@ -31,7 +32,7 @@
     }
     @media (max-width: 500px) {
       h1 {
-        font-size: 46px;
+        font-size:46px;
         padding: 5px;
       }
       li {
